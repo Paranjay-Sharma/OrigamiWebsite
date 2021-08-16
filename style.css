@@ -60,7 +60,7 @@ a:visited{
     color:darkcyan;
 }
 .class:hover{
-    transform: scale(1.1);
+    transform: scale(1.5);
 }
 .class:hover img{
     opacity:0.3;
