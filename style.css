@@ -60,13 +60,13 @@ a:visited{
     color:darkcyan;
 }
 .class:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 .class:hover img{
     opacity:0.3;
 }
 .class:hover p{
-    opacity:1; 
+    opacity:0.9; 
 }                
 .class{
     position:relative;
